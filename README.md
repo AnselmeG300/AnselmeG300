@@ -12,7 +12,7 @@ I'm **Anselme TCHASSEM**
 
 ---
 
-## 🚀 My projects
+## 🚀Projects
 
 - **[Wellmum](https://wellmum.app)** : Infrastructure AWS haute disponibilité pour une plateforme FemTech/Digital Health — Terraform, ECS Fargate, NestJS/FastAPI/Next.js.
 - **[EAZYSkills](https://eazyskills.eazytraining.fr)** : Application EdTech d'orientation par IA générative (ChatGPT) — FastAPI, AWS Lambda, Amplify.
