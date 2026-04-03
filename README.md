@@ -2,7 +2,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=AnselmeG300&label=Profile%20views&color=0e75b6&style=flat)
 
-I'm **Anselme TCHASSEM** but you can call me **AnselmeG300**
+I'm **Anselme TCHASSEM** 
 
 ☁️ CTO · Hands-on Software Engineer · DevOps & DevSecOps · Cloud AWS · Technical Trainer
 
