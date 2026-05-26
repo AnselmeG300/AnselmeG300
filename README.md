@@ -4,7 +4,7 @@
 
 I'm **Anselme TCHASSEM** 
 
-☁️ CTO · Hands-on Software Engineer · DevOps & DevSecOps · Cloud AWS · Team Builder
+☁️ Hands-on Software Engineer · CTO · DevOps & DevSecOps · Cloud AWS · Team Builder
 
 🎓 Certified: AWS Cloud Practitioner · GitLab CI/CD Associate · HashiCorp Terraform Associate
 
